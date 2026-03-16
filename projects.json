@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "IoT Wireless Pager System",
+    "description": "Created an ESP32-based IoT pager for real-time alerts with cloud connectivity, designed for use in time-critical scenarios requiring instant wireless communication.",
+    "tags": ["ESP32", "IoT", "Cloud", "C Programming", "Arduino"],
+    "github": "https://github.com/aryaveersingh4832",
+    "demo": "",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Drone-Based Friend/Foe Detection",
+    "description": "Built a real-time object detection system using OpenCV to classify aerial targets as Friend or Foe based on shape recognition algorithms.",
+    "tags": ["Python", "OpenCV", "Computer Vision", "Machine Learning"],
+    "github": "https://github.com/aryaveersingh4832",
+    "demo": "",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Line-Following Mini Drone Prototype",
+    "description": "Developed an autonomous mini drone with onboard vision and control systems for line tracking and stable flight in GPS-denied environments.",
+    "tags": ["Python", "Arduino", "Computer Vision", "Control Systems"],
+    "github": "https://github.com/aryaveersingh4832",
+    "demo": "",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "GPS Tracker PCB Module (STM-32)",
+    "description": "Designed and assembled a 4-layered GPS Tracker PCB using KiCad for reliable, compact, and efficient location tracking applications.",
+    "tags": ["PCB Design", "KiCad", "STM-32", "GPS", "Hardware"],
+    "github": "https://github.com/aryaveersingh4832",
+    "demo": "",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "Home Load Automation (ESP-32)",
+    "description": "Designed and deployed an IoT-based solution for automated control of home electrical loads, leveraging ESP-32 for wireless operation and smart scheduling of connected devices.",
+    "tags": ["ESP32", "IoT", "Home Automation", "C Programming"],
+    "github": "https://github.com/aryaveersingh4832",
+    "demo": "",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "title": "FM Transmitter & Receiver Module",
+    "description": "Built an analog FM transceiver module on Vero board by hand-soldering components, demonstrating practical understanding of RF modulation and reception circuits.",
+    "tags": ["Circuit Design", "PCB Soldering", "Analog Electronics", "RF"],
+    "github": "https://github.com/aryaveersingh4832",
+    "demo": "",
+    "featured": false
+  }
+]
